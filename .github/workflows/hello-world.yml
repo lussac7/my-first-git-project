@@ -20,8 +20,8 @@ jobs:
       - name: Show current date
         run: date
       
-      - name: Print my name
-        run: echo "Lussac P.Maia"
+      - name: Print user name
+        run: echo "${USER}"
 
       - name: List files
         run: ls -la
