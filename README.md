@@ -1,5 +1,4 @@
-# Hello Git!
-This is my first GitHub project! Learning with Grok.
+# My First GitHub Project - Learning Journey
 
 ## About
 This project was created while learning Git and GitHub.
